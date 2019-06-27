@@ -1,11 +1,17 @@
+.body{
+	
+	background-color: teal
+}
 
-panel{
+
+
+.panel{
 	width: 100%;
 }
 
 .jumbotron{
 	background-color: teal;
-	
+
 	color: white;
 	padding-top: 1%;
 	padding-bottom: 2%;
@@ -13,4 +19,8 @@ panel{
 
 .panel-heading{
 	padding-top: 0.25%;
+}
+
+.h1{
+	font-family: 'Faster One', cursive
 }
